@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ... Game development
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... jcode1699@gmail.com
+- 📫 How to reach me: ... 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love to code lol
 
